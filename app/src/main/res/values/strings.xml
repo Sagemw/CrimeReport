@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CrimeReport</string>
+    <string name="email">example@email.com</string>
+    <string name="password">Your password</string>
+    <string name="button">LOGIN</string>
+    <string name="not_user">Not A User Create Account?</string>
+    <string name="signup">Create Account</string>
+</resources>
