@@ -10,6 +10,7 @@
     <string name="stationCode">Station Code</string>
     <string name="confirmPassword">Confirm Password</string>
     <string name="phone">Your phone number</string>
+    <string name="user">Already A User</string>
     <string-array name="gender">
         <item name="selectGender">Select Gender</item>
         <item name="male">male</item>
