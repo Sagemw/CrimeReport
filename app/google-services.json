@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "757457750277",
+    "firebase_url": "https://crimereport-cf150.firebaseio.com",
+    "project_id": "crimereport-cf150",
+    "storage_bucket": "crimereport-cf150.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757457750277:android:e81f9d5ee5c41338",
+        "android_client_info": {
+          "package_name": "com.vine.crimereport"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757457750277-l0fjmm5ggekm262sj81a6puvb26sgmk0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vine.crimereport",
+            "certificate_hash": "6f1c04845d79ef6e19f43561bcbe8e888a76d557"
+          }
+        },
+        {
+          "client_id": "757457750277-0dgr8o3mh7fpjp3sku2bks0t59j3l333.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ8TJ7rCq88D_mC3IBhNAyWb8N-nt5Y-0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757457750277-0dgr8o3mh7fpjp3sku2bks0t59j3l333.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
