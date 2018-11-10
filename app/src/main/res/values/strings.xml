@@ -1,8 +1,19 @@
 <resources>
     <string name="app_name">CrimeReport</string>
-    <string name="email">example@email.com</string>
+    <string name="email">Enter Your Email</string>
     <string name="password">Your password</string>
     <string name="button">LOGIN</string>
     <string name="not_user">Not A User Create Account?</string>
-    <string name="sig_nup">Create Account</string>
+    <string name="signup">Create Account</string>
+    <string name="firstName">Your Firstname</string>
+    <string name="lastName">Your Lastname</string>
+    <string name="stationCode">Station Code</string>
+    <string name="confirmPassword">Confirm Password</string>
+    <string name="phone">Your phone number</string>
+    <string name="user">Already A User</string>
+    <string-array name="gender">
+        <item name="selectGender">Select Gender</item>
+        <item name="male">male</item>
+        <item name="female">female</item>
+    </string-array>
 </resources>
