@@ -29,7 +29,7 @@
                 android:layout_height="wrap_content"
                 android:orientation="vertical">
     <EditText
-        android:id="@+id/etemail"
+        android:id="@+id/etEmail"
         android:layout_width="match_parent"
         android:textSize="19sp"
         android:textColorHint="@android:color/white"
@@ -46,6 +46,7 @@
                     android:textColorHint="@android:color/white"
                     app:passwordToggleEnabled="true">
     <EditText
+        android:id="@+id/etPassword"
         android:layout_width="match_parent"
         android:layout_height="70dp"
         android:hint="@string/password"
@@ -59,7 +60,7 @@
 
         </android.support.v7.widget.CardView>
 
-        <Button
+        <Button android:id="@+id/btnLogin"
         android:layout_width="300dp"
         android:layout_height="70dp"
         android:text="@string/button"
@@ -72,10 +73,12 @@
         android:textColor="@android:color/white"
         android:textSize="20dp"
         android:textStyle="bold"/>
+
         <Button
+            android:id="@+id/btnCreatAccount"
             android:layout_width="300dp"
             android:layout_height="70dp"
-            android:text="@string/signup"
+            android:text="@string/sig_nup"
             android:layout_gravity="center"
             android:background="@drawable/button"
             android:layout_marginLeft="10dp"

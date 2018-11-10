@@ -4,5 +4,5 @@
     <string name="password">Your password</string>
     <string name="button">LOGIN</string>
     <string name="not_user">Not A User Create Account?</string>
-    <string name="signup">Create Account</string>
+    <string name="sig_nup">Create Account</string>
 </resources>
